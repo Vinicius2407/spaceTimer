@@ -1,0 +1,25 @@
+
+// COMPONENTS
+-- Funções que retornam HTML
+
+   .TypeScript + JSX = TSX
+   .JSX = JavaScript + XML
+
+-- Serve para
+   .Separar em pedaços menores, para o código ficar mais simples manutenção
+   .Reaproveitar comportamento e visual da interface em varios locais da aplicação
+
+// PROPRIEDADES
+-- O que é?
+   .Uma forma de passar informação para dentro de um componente
+
+// ROTEAMENTO - NEXT
+-- O que é?
+   .Navegação entre páginas sem recarregar a página inteira
+   .Tudo que for colocado dentro da pagina APP, será interpretado como uma rota no navegador por causa do NEXT
+
+// TAILWIND
+-- O que é?
+   .É uma ferramenta de Utility Classes
+   .Nós não criamos arquivos CSS
+   
